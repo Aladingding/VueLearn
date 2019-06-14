@@ -17,7 +17,8 @@
     Vue.component('Articles', {
         template: '<h1>这是自定义组件!</h1>'
     });
-
+    
+    // 局部组件
     const Child = {
         template: '<h1>局部自定义组件!</h1>'
     }
