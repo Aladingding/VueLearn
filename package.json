@@ -18,5 +18,11 @@
     "webpack": "^4.34.0",
     "webpack-cli": "^3.3.4",
     "webpack-dev-server": "^3.7.1"
-  }
+  },
+  "comment":[
+    {
+      "artcle":"https://segmentfault.com/a/1190000012736387",
+      "use":"手工搭建vue脚手架"
+    }
+  ]
 }
