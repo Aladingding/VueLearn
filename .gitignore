@@ -1,0 +1,9 @@
+﻿node_modules/
+build/
+npm-debug.log
+resouse/dontup/
+参考文件
+.idea
+.svn
+.idea
+dist
